@@ -18,3 +18,12 @@
 	- 리눅스 기본
 		- 리눅스 명령어(대표 20여가지)
 	
+## 3일차
+	- 라즈베리파이 학습
+		- 통신 설정
+			- anydesk 실패
+	- 리눅스 일반
+		- 서비스 실행, 확인, 종료
+			- systemctl [start|stop|status] 서비스명
+		- MySQL DB
+	- Flask 기본
