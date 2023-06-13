@@ -19,7 +19,7 @@
 		- 리눅스 명령어(대표 20여가지)
 	
 ## 3일차
-	- 라즈베리파이 학습
+- 라즈베리파이 학습
 		- 통신 설정
 			- anydesk 실패
 	- 리눅스 일반
@@ -27,3 +27,15 @@
 			- systemctl [start|stop|status] 서비스명
 		- MySQL DB
 	- Flask 기본
+
+## 4일차
+- 라즈베리파이 학습
+	- PyQt5 설치
+	- QtDesinger 설치
+	- 하드웨어 제어 - GPIO 
+		- LED /RGB LED 출력
+
+## 5일차
+- 라즈베리파이 학습
+	- 네트워크 셋팅(VNC)
+	- RGB LED / Button 클릭
