@@ -57,9 +57,5 @@ src="https://raw.githubusercontent.com/ZZO-ZHO/pknu-raspberrypi-2023/main/images
 
 라즈베리파이 테스트 결과  
 <img
-<<<<<<< HEAD
 src="https://raw.githubusercontent.com/ZZO-ZHO/pknu-raspberrypi-2023/main/images/raspberrypi02.png" width="700">
-=======
-src="https://raw.githubusercontent.com/ZZO-ZHO/pknu-raspberrypi-2023/main/images/raspberrypi02.jpg" width="700">  
->>>>>>> 42e117b5704aa1d3bd2a3849675912e7c924d129
 
