@@ -50,12 +50,12 @@
 		- RPi Python paho-mqtt 패키지
 		- WPF C# M2Mqtt 패키지
 
-WPF 모니터링, 컨트롤화면
+WPF 모니터링, 컨트롤화면   
 <img
-src="https://raw.githubusercontent.com/ZZO-ZHO/pknu-raspberrypi-2023/main/images/raspberrypi01.jpg" width="700">
+src="https://raw.githubusercontent.com/ZZO-ZHO/pknu-raspberrypi-2023/main/images/raspberrypi01.jpg" width="700">  
 
 
 라즈베리파이 테스트 결과  
 <img
-src="https://raw.githubusercontent.com/ZZO-ZHO/pknu-raspberrypi-2023/main/images/raspberrypi02.jpg" width="700">
+src="https://raw.githubusercontent.com/ZZO-ZHO/pknu-raspberrypi-2023/main/images/raspberrypi02.jpg" width="700">  
 
