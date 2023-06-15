@@ -98,4 +98,3 @@ if __name__== '__main__':
     thSub = subscriber()
     thPub.start()   # run 자동실행
     thSub.start()
-ㄴㄴ

@@ -59,3 +59,8 @@ src="https://raw.githubusercontent.com/ZZO-ZHO/pknu-raspberrypi-2023/main/images
 <img
 src="https://raw.githubusercontent.com/ZZO-ZHO/pknu-raspberrypi-2023/main/images/raspberrypi02.png" width="700">
 
+## 7일차
+- 라즈베리파이 학습
+	- 파이카메라 v1.3 ov5647
+	- OpenCV 4.7
+	- 카메라 연동 QrCode
